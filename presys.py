@@ -12,7 +12,7 @@ try:
     db = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Teju@8978",
+        password="database password",
         database="chatbot_system"
     )
 
